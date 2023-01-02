@@ -1,8 +1,17 @@
-- 🤖 Hi, I’m @clemensProgrammer
-- 👀 I’m interested in Arduino, Linux Servers
-- 🌱 I’m currently learning websocket, web buisniss
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+Hi, I’m @clemensProgrammer.I'm interested in all programming stuff like Back-End, Front-End and applications.
+
+#### What I already had done:
+- Worked with linux servers and Dockers, Containers, VMs
+- Front-End, Back-End development with different languages...
+- AI with Python
+- Website and Applications in JavaScript and Python with CSS,HTML and Markdown
+- Worked with Arduino and ESP-Family and coded in C++
+- Worked on my self designed app
+
+#### The things I am interested in:
+- React
+- Django
+- Docker Handling
 
 <!---
 clemensProgrammer/clemensProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
