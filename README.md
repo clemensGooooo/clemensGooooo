@@ -11,7 +11,8 @@ Hi, I’m @clemensProgrammer.I'm interested in all programming stuff like Back-E
 #### The things I am interested in:
 - React
 - Django
-- Docker Handling
+- Docker
+- JavaScript Libarys and how to create one...
 
 <!---
 clemensProgrammer/clemensProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
