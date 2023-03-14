@@ -7,7 +7,7 @@ Hi, I’m @clemensProgrammer.I'm interested in all programming stuff like Back-E
 - Website and Applications in JavaScript and Python with CSS,HTML and Markdown
 - Worked with Arduino and ESP-Family and coded in C++
 - Worked on my self designed app
-- Build different Electron apps with vite/react-ts
+- Build different complex Electron apps with vite/react-ts
 
 #### The things I am interested in:
 - React
