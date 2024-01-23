@@ -3,6 +3,7 @@
 Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, Front-End and applications and more.
 
 #### What I already had done:
+- Hacking/Cybersecurity (CTF, THM, HTB, etc.)
 - Worked with linux servers and Dockers, Containers, VMs
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
 - AI with Python (tensorflow etc.)
@@ -18,3 +19,5 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 
 - Rust
 - C/C#
+
+Programming since 00110101 years!
