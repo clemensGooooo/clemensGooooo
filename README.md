@@ -20,4 +20,4 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 - Rust
 - C/C#
 
-Programming since 00110101 years!
+Programming since 00000101 years!
