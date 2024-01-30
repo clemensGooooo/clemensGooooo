@@ -22,4 +22,3 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 
 Programming since 00000101 years!
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/cle.hack.png" alt="TryHackMe">
