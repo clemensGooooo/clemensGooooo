@@ -36,4 +36,4 @@ Next achivements:
 
 ## Platform profiles
 
- <script src="https://tryhackme.com/badge/1699056"></script>
+- [TryHackMe](https://tryhackme.com/p/cle.hack)
