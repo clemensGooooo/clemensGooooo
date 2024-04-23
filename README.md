@@ -5,24 +5,22 @@
 Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, Front-End and applications and more.
 
 #### What I already had done:
-- Hacking/Cybersecurity (CTF, THM, HTB, etc.)
-- Worked with linux servers and Dockers, Containers, VMs
+- Hacking/Cybersecurity, I did many CTF challenges and learned a lot in the learning paths I did on TryHackMe. (CTF, THM, HTB, etc.)
+- Worked with linux servers and Dockers, Containers, VMs -> Virtualisation
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
 - AI with Python (tensorflow etc.)
 - Website and Applications in JavaScript and Python with CSS,HTML and Markdown
-- Worked with Arduino and ESP-Family and coded in C++
+- Worked with Arduino and ESP-Family and coded in C++, made some projects
 - Worked on my self designed app (React Native, and Web App)
 - Build different complex Electron apps with vite/react-ts, did some React (Made a task manager, which has more functions)
+- Mobile development, worked with React-Native
 - Made some games in Unity (2D mostly, easier)
 - Docker, deployed some applications (Dockerfiles, CMD)
 - Made some databases (mostly NoSQL like MongoDB, but sometimes SQL like: PostgreSQL,MySQL and some InfluxDB for ESP) 
 - I have been using Linux, since I was a kid
-#### The things I am interested in:
+- Websites were my intro into IT as a kid I developed them all my free time
 
-- Rust
-- C/C#
-
-Programming since 00000101 years!
+Since 00000101 years I am programming!
 
 Languages:
 
@@ -37,3 +35,9 @@ Next achivements:
 ## Platform profiles
 
 - [TryHackMe](https://tryhackme.com/p/cle.hack)
+
+## Mindset
+
+- I love learning new stuff
+- If there is something which I do over and over again, I automate it -> don't waste time for stupid stuff
+ i
