@@ -22,3 +22,4 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 
 Programming since 00000101 years!
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript">
