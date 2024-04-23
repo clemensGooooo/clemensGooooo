@@ -30,7 +30,7 @@ Languages:
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-C%2B%2B-purple?style=flat&logo=C%2B%2B&logoColor=lightblue)
 ![Static Badge](https://img.shields.io/badge/Markdown-purple?style=flat&logo=markdown&logoColor=lightblue)
 ![Static Badge](https://img.shields.io/badge/CSS-green?style=flat&logo=css3)
-![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
+![Static Badge](https://img.shields.io/badge/HTML-darkblue?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue?style=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Node.JS-darkgreen?style=flat&logo=node.js)
 
