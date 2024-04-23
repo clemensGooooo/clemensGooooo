@@ -1,5 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=008B18&random=false&width=600&separator=%3C&lines=%24+whoami%3C%3E+I'm+a+German+student%3C%3E+I'm+interested+in+anything+connected+with+IT%3C%3E+In+German+we+say+%22Informationstechnik%22+-;)](https://git.io/typing-svg) 
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=008B18&random=false&width=610&separator=%3C&lines=%24+whoami%3C%3E+I'm+a+German+student%3C%3E+I'm+interested+in+anything+connected+with+IT%3C%3E+In+German+we+say+%22Informationstechnik%22+-;))](https://git.io/typing-svg) 
+ 
 # About me
 
 Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, Front-End and applications and more.
