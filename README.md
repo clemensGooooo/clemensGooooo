@@ -33,3 +33,7 @@ Languages:
 
 Next achivements:
 **Becoming better in hacking**
+
+## Platform profiles
+
+ <script src="https://tryhackme.com/badge/1699056"></script>
