@@ -22,7 +22,7 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 
 Since 00000101 years I am programming!
 
-Languages:
+Languages/Frameworkes/Libaries:
 
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Java_Script-red?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Python-yellow?style=flat&logo=python&logoColor=yellow)
@@ -37,6 +37,12 @@ Languages:
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-React-dodgerblue?logo=react)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Arduino-white?logo=arduino)
 ![Static Badge](https://img.shields.io/badge/JSON-yellow?logo=json)
+![Static Badge](https://img.shields.io/badge/Express-lightgreen)
+![Static Badge](https://img.shields.io/badge/Flask-grey?logo=flask)
+![Static Badge](https://img.shields.io/badge/Tensorflow-orange?logo=tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/numpy-olive?logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/numpy-cyan?logo=pandas&logoColor=black)
+![Static Badge](https://img.shields.io/badge/mongoose-darkgreen?logo=mongoose)
 
 Next achivements:
 **Becoming better in hacking**
