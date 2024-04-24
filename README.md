@@ -33,7 +33,10 @@ Languages:
 ![Static Badge](https://img.shields.io/badge/HTML-darkblue?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue?style=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Node.JS-darkgreen?style=flat&logo=node.js)
-![Static Badge](https://img.shields.io/badge/SQL-darkred?style=flat)
+![Static Badge](https://img.shields.io/badge/SQL-olive)
+![Static Badge](https://img.shields.io/badge/%3C%2F%3E-React-dodgerblue?logo=react)
+![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Arduino-white?logo=arduino)
+![Static Badge](https://img.shields.io/badge/JSON-yellow?logo=json)
 
 Next achivements:
 **Becoming better in hacking**
