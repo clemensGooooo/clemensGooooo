@@ -55,4 +55,7 @@ Next achivements:
 
 - I love learning new stuff
 - If there is something which I do over and over again, I automate it -> don't waste time for stupid stuff
- i
+- I'm a hardware and software enthusiast
+- I split huge problems to solve them in parts
+
+ 
