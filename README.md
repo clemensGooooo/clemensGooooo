@@ -43,6 +43,7 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/numpy-olive?logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/numpy-cyan?logo=pandas&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/mongoose-darkgreen?logo=mongoose)
+![Static Badge](https://img.shields.io/badge/Unix-darkred?logo=linux&logoColor=white)
 
 Next achivements:
 **Becoming better in hacking**
