@@ -6,6 +6,7 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 
 #### What I already had done:
 - Hacking/Cybersecurity, I did many CTF challenges and learned a lot in the learning paths I did on TryHackMe/HackTheBox and from amazing tutorials on YouTube. (CTF, THM, HTB, etc.)
+- CyberSecurity researcher (Investigate interesting vulns and more...)
 - Worked with linux servers and Dockers, Containers, VMs -> Virtualisation
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
 - AI with Python (tensorflow etc.)
