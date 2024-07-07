@@ -47,6 +47,7 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/Unix-darkred?logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash_Scripting-gold)
 ![Static Badge](https://img.shields.io/badge/Regex-slateblue)
+![Static Badge](https://img.shields.io/badge/Golang-Go-blue?labelColor=lightblue)
 
 Next achivements:
 **Becoming better in hacking**
