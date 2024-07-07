@@ -48,6 +48,7 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/Bash_Scripting-gold)
 ![Static Badge](https://img.shields.io/badge/Regex-slateblue)
 ![Static Badge](https://img.shields.io/badge/Golang-Go-blue?labelColor=lightblue)
+![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
 
 Next achivements:
 **Becoming better in hacking**
