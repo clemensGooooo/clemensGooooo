@@ -56,6 +56,7 @@ Next achivements:
 ## Platform profiles
 
 - [TryHackMe](https://tryhackme.com/p/cle.hack)
+- [PicoCTF](https://play.picoctf.org/users/ClemensGooo)
 
 ## Mindset
 
