@@ -43,7 +43,7 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/Flask-grey?logo=flask)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-orange?logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/numpy-olive?logo=numpy&logoColor=white)
-![Static Badge](https://img.shields.io/badge/numpy-cyan?logo=pandas&logoColor=black)
+![Static Badge](https://img.shields.io/badge/pandas-cyan?logo=pandas&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/mongoose-darkgreen?logo=mongoose)
 ![Static Badge](https://img.shields.io/badge/Unix-darkred?logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash_Scripting-gold)
