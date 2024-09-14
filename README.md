@@ -50,6 +50,7 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/Regex-slateblue)
 ![Static Badge](https://img.shields.io/badge/Golang-Go-blue?labelColor=lightblue)
 ![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
+![Static Badge](https://img.shields.io/badge/ansible-darkred?logo=ansible)
 
 Next achivements:
 **Becoming better in hacking**
