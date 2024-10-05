@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=008B18&random=false&width=610&separator=%3C&lines=%24+whoami%3C%3E+I'm+a+German+student%3C%3E+I'm+interested+in+anything+connected+with+computer+science%3C%3E+In+German+we+say+%22Informatik%22+-;)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=008B18&random=false&width=610&separator=%3C&lines=%24+whoami%3C%3E+I'm+a+German+student%3C%3E+I'm+interested+in+anything+in+computer+science%3C%3E+In+German+we+say+%22Informatik%22+-;)](https://git.io/typing-svg) 
  
 # About me
 
