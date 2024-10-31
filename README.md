@@ -22,7 +22,7 @@ Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, 
 - I have been using Linux, since I was a kid
 - Websites were my intro into IT as a kid I developed them all my free time
 
-Since 00000101 years I am programming!
+Since 00000110 years I am programming!
 
 Languages/Frameworkes/Libaries:
 
