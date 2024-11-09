@@ -1,30 +1,37 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=008B18&random=false&width=610&separator=%3C&lines=%24+whoami%3C%3E+I'm+a+German+student%3C%3E+I'm+interested+in+anything+in+computer+science%3C%3E+In+German+we+say+%22Informatik%22+-;)](https://git.io/typing-svg) 
+ ![My random profile](./github-header-image.png) 
  
 # About me
 
-Hi, I’m @clemensGooooo.I'm interested in all programming stuff like Back-End, Front-End and applications and more.
+Hi, I’m @clemensGooooo aka cle.hack/Clemens.Gooooo.
+
+I'm 16 years old, so still in something like German :school: high school.
+
+Interested in computer science especially hacking, I did a lot of development stuff in different sections.
 
 #### What I already had done:
-- Hacking/Cybersecurity, learned a lot in the learning paths I did on TryHackMe/HackTheBox and from amazing tutorials on YouTube. (THM, HTB, etc.)
-- CTF challenges, I love doing new CTF challenges and learning things on the way, platforms (THM, HTB, picoCTF, was at the DBH final (CSCG))
-- CyberSecurity researcher (Investigate interesting vulns and more...)
-- Worked with linux servers and Dockers, Containers, VMs -> Virtualisation
+- Hacking/Cybersecurity :lock:, learned a lot in the learning paths I did on TryHackMe/HackTheBox. (THM, HTB, etc.)
+- CTF challenges, I love doing new CTF challenges and learning things on the way, platforms (THM, HTB, picoCTF)
+- Participated at some German CTF challenges (CSCG,DBH)
+- Sometimes I reasearch some stuff, lol :v: (Investigate interesting vulns and more...)
+- Worked with linux servers :computer: and Dockers :whale:, Containers, VMs -> Virtualisation
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
-- AI with Python (tensorflow etc.)
-- Website and Applications in JavaScript and Python with CSS,HTML and Markdown
-- Worked with Arduino and ESP-Family and coded in C++, made some projects
-- Worked on my self designed app (React Native, and Web App)
+- AI with Python :snake: (tensorflow etc.)
+- Website and Applications in JavaScript and Python with CSS,HTML :page_with_curl: and Markdown
+- Worked with Arduino :skull: and ESP-Family and coded in C++, made some projects
+- Worked on my self designed app :clock9: (React Native, and Web App)
 - Build different complex Electron apps with vite/react-ts, did some React (Made a task manager, which has more functions)
 - Mobile development, worked with React-Native
 - Made some games in Unity (2D mostly, easier)
 - Docker, deployed some applications (Dockerfiles, CMD)
-- Made some databases (mostly NoSQL like MongoDB, but sometimes SQL like: PostgreSQL,MySQL and some InfluxDB for ESP) 
+- Made some stuff with databases  :file_folder: (mostly NoSQL like MongoDB, but sometimes SQL like: PostgreSQL,MySQL and some InfluxDB for ESP) 
 - I have been using Linux, since I was a kid
-- Websites were my intro into IT as a kid I developed them all my free time
+- Websites were my intro into the stuff, I developed them all my free time
 
-Since 00000110 years I am programming!
+I think you get it ;)
 
-Languages/Frameworkes/Libaries:
+Since 6 years I am programming, don't know why but I had a feeling to you tell that :sunglasses: !
+
+Languages/Frameworkes/Libaries I interacted with:
 
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Java_Script-red?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/%3C%2F%3E-Python-yellow?style=flat&logo=python&logoColor=yellow)
@@ -52,19 +59,17 @@ Languages/Frameworkes/Libaries:
 ![Static Badge](https://img.shields.io/badge/Docker-white?logo=docker)
 ![Static Badge](https://img.shields.io/badge/ansible-darkred?logo=ansible)
 
-Next achivements:
-**Becoming better in hacking**
 
 ## Platform profiles
 
 - [TryHackMe](https://tryhackme.com/p/cle.hack)
 - [PicoCTF](https://play.picoctf.org/users/Clemens_Gooooo)
 
-## Mindset
+## Mindset - Why don't ask?!
 
 - I love learning new stuff
-- If there is something which I do over and over again, I automate it -> don't waste time for stupid stuff
+- I like to automate stuff
 - I'm a hardware and software enthusiast
-- I split huge problems to solve them in parts
+- I like to think like a engineer
 
  
