@@ -59,6 +59,8 @@ Languages/Frameworkes/Libaries I interacted with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-0da0e5?style=flat&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GraphQL-black?logo=graphql)
+
 
 ## Platform profiles
 
