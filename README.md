@@ -29,7 +29,7 @@ Interested in computer science especially hacking, I did a lot of development st
 
 I think you get it ;)
 
-Since 6 years I am programming, don't know why but I had a feeling to you tell that :sunglasses: !
+Since 6 years I am programming, don't know why but I had a feeling to tell you that :sunglasses: !
 
 Languages/Frameworkes/Libaries I interacted with:
 
