@@ -4,14 +4,14 @@
 
 Hi, I’m @clemensGooooo aka cle.hack/Clemens.Gooooo.
 
-I'm 16 years old, so still in something like German :school: high school.
+I'm 17 years old, so still in something like German :school: high school.
 
-Interested in computer science especially hacking, I did a lot of development stuff in different sections.
+I'm passionate about computer science, with a particular interest in hacking and cybersecurity.
 
 #### What I already had done:
-- Hacking/Cybersecurity :lock:, learned a lot in the learning paths I did on TryHackMe/HackTheBox. (THM, HTB, etc.)
-- CTF challenges, I love doing new CTF challenges and learning things on the way, platforms (THM, HTB, picoCTF)
-- Participated at some German CTF challenges (CSCG,DBH)
+- Hacking/Cybersecurity :lock:, I learned lots of stuff on different hacking platforms. (THM, HTB, picoCTF, CryptoHack & others)
+- Lots of CTF challenges, I love doing new CTF challenges and learning things on the way. I do this on the platforms above, additionally participated at Midnight Flag CTF, TAMUctf and the German CTFs below.
+- Participated at some German CTF challenges (2x CSCG,DBH)
 - Sometimes I reasearch some stuff, lol :v: (Investigate interesting vulns and more...)
 - Worked with linux servers :computer: and Dockers :whale:, Containers, VMs -> Virtualisation
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
@@ -25,13 +25,13 @@ Interested in computer science especially hacking, I did a lot of development st
 - Docker, deployed some applications (Dockerfiles, CMD)
 - Made some stuff with databases  :file_folder: (mostly NoSQL like MongoDB, but sometimes SQL like: PostgreSQL,MySQL and some InfluxDB for ESP) 
 - I have been using Linux, since I was a kid
-- Websites were my intro into the stuff, I developed them all my free time
+- Websites were my intro into the development stuff, I developed them all my free time
 
 I think you get it ;)
 
-Since 6 years I am programming, don't know why but I had a feeling to tell you that :sunglasses: !
+Since 7 years I am programming, don't know why but I had a feeling to tell you that :sunglasses: !
 
-Languages/Frameworkes/Libaries I interacted with:
+Languages/Frameworkes/Libaries I worked with:
 
 ![JavaScript](https://img.shields.io/badge/%3C%2F%3E-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/%3C%2F%3E-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,22 +56,17 @@ Languages/Frameworkes/Libaries I interacted with:
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-673AB7?style=flat&logo=regex&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-brown?logo=rust)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-0da0e5?style=flat&logo=markdown&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GraphQL-black?logo=graphql)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql)
 
 
 ## Platform profiles
 
 - [TryHackMe](https://tryhackme.com/p/cle.hack)
 - [PicoCTF](https://play.picoctf.org/users/Clemens_Gooooo)
+- [CryptoHack](https://cryptohack.org/user/clemensGooooo/)
 
-## Mindset - Why don't ask?!
-
-- I love learning new stuff
-- I like to automate stuff
-- I'm a hardware and software enthusiast
-- I like to think like a engineer
-
- 
+I also do Write-Ups and some research and publish that on [my website](https://clemensgooooo.github.io/).
