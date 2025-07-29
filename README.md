@@ -11,7 +11,7 @@ I'm passionate about computer science, with a particular interest in hacking and
 #### What I already had done:
 - Hacking/Cybersecurity :lock:, I learned lots of stuff on different hacking platforms. (THM, HTB, picoCTF, CryptoHack & others)
 - Lots of CTF challenges, I love doing new CTF challenges and learning things on the way. I do this on the platforms above, additionally participated at Midnight Flag CTF, TAMUctf and the German CTFs below.
-- Participated at some German CTF challenges (2x CSCG,DBH)
+- Participated at some German CTF challenges. I attended the CSCG - Cyber Security Challenge Germany 2x and 2 times went to the final DBH - Deutsche Hacking Meisterschaft)
 - Sometimes I reasearch some stuff, lol :v: (Investigate interesting vulns and more...)
 - Worked with linux servers :computer: and Dockers :whale:, Containers, VMs -> Virtualisation
 - Front-End, Back-End development with different languages... (Backend: FastAPI,Express.JS Frontend: React, Plain JS/HTML/CSS)
@@ -29,9 +29,21 @@ I'm passionate about computer science, with a particular interest in hacking and
 
 I think you get it ;)
 
-Since 7 years I am programming, don't know why but I had a feeling to tell you that :sunglasses: !
+I'm always learning new things and regularly participate in CTF challenges.
 
-Languages/Frameworkes/Libaries I worked with:
+## Platform profiles
+
+Here is a small overview of platforms I regulary use to sharpen my skills:
+
+- [TryHackMe](https://tryhackme.com/p/cle.hack)
+- [PicoCTF](https://play.picoctf.org/users/Clemens_Gooooo)
+- [CryptoHack](https://cryptohack.org/user/clemensGooooo/)
+- [pwn.college](https://pwn.college/hacker/125155)
+
+I also do Write-Ups and some research and publish that on [my website](https://clemensgooooo.github.io/).
+
+
+A basic overview of Languages/Frameworkes/Libaries I worked with:
 
 ![JavaScript](https://img.shields.io/badge/%3C%2F%3E-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/%3C%2F%3E-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -59,14 +71,7 @@ Languages/Frameworkes/Libaries I worked with:
 ![Rust](https://img.shields.io/badge/Rust-brown?logo=rust)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-0da0e5?style=flat&logo=markdown&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?logo=graphql)
+![Assembly](https://img.shields.io/badge/Assembly-darkred?logo=assemblyscript&logoColor=white)
 
 
-## Platform profiles
-
-- [TryHackMe](https://tryhackme.com/p/cle.hack)
-- [PicoCTF](https://play.picoctf.org/users/Clemens_Gooooo)
-- [CryptoHack](https://cryptohack.org/user/clemensGooooo/)
-
-I also do Write-Ups and some research and publish that on [my website](https://clemensgooooo.github.io/).
